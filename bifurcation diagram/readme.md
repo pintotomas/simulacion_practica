@@ -1,0 +1,1 @@
+the blue solid curve indicates a stable equilibrium point, and the red dashed curve indicates an unstable equilibrium point, with the green circle in the middle showing a neutral equilibrium point.
